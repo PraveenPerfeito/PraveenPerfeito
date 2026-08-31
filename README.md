@@ -52,3 +52,6 @@ The AI Toolkit for TypeScript, from the creators of Next.js — a free, open-sou
 
 ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenPerfeito&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenPerfeito&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=PraveenPerfeito&theme=default&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PraveenPerfeito&theme=flat&no-frame=true&row=1&column=7)
