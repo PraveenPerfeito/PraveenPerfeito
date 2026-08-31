@@ -1,16 +1,25 @@
-# Hi, I'm Praveen Kumar Ravikumar 👋
+# Praveen Kumar Ravikumar
 
-**Technical Lead** — AI agent tooling, developer infrastructure & platform engineering
+### Technical Lead · AI Agent Systems & Platform Engineering
 
-🟢 **Open to work**
+**10+ years** across software engineering, infrastructure, and technical leadership — currently focused equally on **AI/LLM agent systems** and **DevOps/platform engineering**.
 
-## About Me
+🟢 **Open to new opportunities** · 📫 [praveenperfeitoo@gmail.com](mailto:praveenperfeitoo@gmail.com) · 🔗 [LinkedIn](https://in.linkedin.com/in/praveen-perfeito-75852a64)
 
-- 🧠 Building and leading work across autonomous AI agents, LLM tooling, and the developer/platform infrastructure that runs them.
-- 🛠️ Hands-on across the stack — from low-level inference (C++) to agent orchestration (Go, TypeScript, Python) to the containers/CI/CD/service-mesh layer underneath it all.
-- 📈 Currently deepening hands-on production-operations expertise (Kubernetes, Istio, CI/CD release engineering) through the SkillFyme DevOps with AI Masters Program.
-- 💬 Ask me about AI agents, LLM tooling, developer infrastructure, or container/platform engineering.
-- 📫 praveenperfeitoo@gmail.com · [LinkedIn](https://in.linkedin.com/in/praveen-perfeito-75852a64)
+---
+
+## Focus Areas
+
+**AI Agent Systems & LLM Tooling**
+Designing and building autonomous agent architectures, LLM inference pipelines, and the developer tooling that surrounds them — from low-level inference (C++) through agent orchestration (Go, TypeScript, Python).
+
+**Platform Engineering & DevOps**
+Production-grade container orchestration, service mesh, and CI/CD release engineering — Kubernetes, Istio, Jenkins, GitHub Actions. Currently extending this depth further through the SkillFyme DevOps with AI Masters Program.
+
+**Technical Leadership**
+Setting technical direction, evaluating architecture trade-offs, and driving projects from concept through to running, production-grade systems.
+
+---
 
 ## 🧰 Tech Stack
 
@@ -27,6 +36,8 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
 
 ## 📌 Featured Projects
 
@@ -47,6 +58,8 @@ LLM inference in C/C++.
 
 ### [vercel-ai](https://github.com/PraveenPerfeito/vercel-ai) — TypeScript · fork of [vercel/ai](https://github.com/vercel/ai)
 The AI Toolkit for TypeScript, from the creators of Next.js — a free, open-source library for building AI-powered applications and agents.
+
+---
 
 ## 📊 GitHub Stats
 
