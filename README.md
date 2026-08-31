@@ -50,8 +50,10 @@ The AI Toolkit for TypeScript, from the creators of Next.js — a free, open-sou
 
 ## 📊 GitHub Stats
 
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenPerfeito&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenPerfeito&layout=compact&hide_border=true)
+![Praveen's GitHub stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 ![GitHub Streak](https://streak-stats.demolab.com?user=PraveenPerfeito&theme=default&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=PraveenPerfeito&theme=flat&no-frame=true&row=1&column=7)
+![Trophies](./profile/trophy.svg)
+
+<sub>Stats/languages/trophy cards are static SVGs regenerated daily by [a GitHub Action](.github/workflows/update-readme-cards.yml) and committed here — the public github-readme-stats/github-profile-trophy hosts are unreliable (rate limits, billing caps), so this avoids depending on them at page-load time.</sub>
